@@ -1,2 +1,0 @@
-def multiples(a,b):
-    
